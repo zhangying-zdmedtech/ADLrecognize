@@ -1,0 +1,16 @@
+Library/
+obj/
+Packages/
+ProjectSettings/
+UnityPackageManager/
+Temp/
+#*.sln
+*.csproj
+*.sln
+*.userprefs
+*.unityproj
+.vs/
+.vscode/
+Assetsbk/
+.gitattributes
+.gitconfig
